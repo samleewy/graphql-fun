@@ -2,8 +2,9 @@
 This repo consist of my attempt to learn GraphQL! 
 
 ## Resources Used
-1. [How to GraphQL](https://www.howtographql.com/typescript-apollo/1-getting-started/)
-2. [Nexus Scalar Type](https://nexusjs.org/docs/api/scalar-type)
+1. [Apollo Server -- Getting Started](https://www.apollographql.com/docs/apollo-server/getting-started)
+2. [How to GraphQL -- Typescript Apollo](https://www.howtographql.com/typescript-apollo/1-getting-started/)
+3. [Nexus Scalar Type](https://nexusjs.org/docs/api/scalar-type)
 
 ## How To Run
 ```
